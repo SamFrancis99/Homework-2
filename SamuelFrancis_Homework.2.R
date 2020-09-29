@@ -41,6 +41,8 @@ is_prime    = function(n) {
 is_prime(3)
 is_prime(100)
 
+
+
 # Question 3
 
   # Creating the matrices and renaming rows and columns
